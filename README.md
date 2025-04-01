@@ -4,10 +4,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dulanjaya2005&label=Profile%20views&color=0e75b6&style=flat" alt="dulanjaya2005" /> </p>
 
-| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=dulanjaya2005&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dulanjaya2005&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
-
 
 <table align="center">
 <tr border="none">
@@ -36,6 +32,14 @@ I specialize in creating responsive and visually appealing user interfaces. With
   </td>
 </tr>
 </table>
+
+
+
+| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=dulanjaya2005&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dulanjaya2005&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+
+
 
 ### Languages
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
